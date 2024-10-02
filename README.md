@@ -1,5 +1,5 @@
 # Verilog Voting Machine Project
-https://www.edaplayground.com/x/Qxvc
+##CODE : https://www.edaplayground.com/x/Qxvc
 
 ## Overview
 This project implements a simple **Voting Machine** using **Verilog**. The design tracks votes for three candidates and allows votes to be reset. The machine counts the number of votes for each candidate based on user input and outputs the current count for each.
